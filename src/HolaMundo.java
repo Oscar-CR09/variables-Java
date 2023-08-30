@@ -17,7 +17,7 @@ public class HolaMundo {
             nombre = "Oscar";
         }
         System.out.println();
-                
+
 
         int edad_persona = 5;
         // comentarios
