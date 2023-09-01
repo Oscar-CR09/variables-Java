@@ -1,4 +1,4 @@
-public class primitivos {
+public class primitivosEnteros {
     public static void main(String[] args) {
         byte numeroByte = 7;
         System.out.println("numero Byte = " + numeroByte);
