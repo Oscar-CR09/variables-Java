@@ -16,7 +16,7 @@ public class EjemploStringConcatenacion {
         String detalle2= curso.concat(" con ").concat(nombre);
         System.out.println("detalle2 : " + detalle2);
 
-        
+
 
     }
 
