@@ -29,7 +29,6 @@ public class OperadoresLogicoslogin {
 
          for(int i=0 ; i< usernames.length; i++){
              if (  (usernames[i].equals(u) &&  passwords[i].equals(p)) ){
-
                  esAutenticado = true;
                  break;
              }
