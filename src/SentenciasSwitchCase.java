@@ -23,7 +23,25 @@ public class SentenciasSwitchCase {
             default:
                 System.out.println("El numero no existe");
                 break;
-                
+
+        }
+
+        String nombre = "Oscar";
+        switch (nombre){
+            case "admin" :
+                System.out.println("Hola Admin");
+                break;
+            case "Oscar":
+                System.out.println("Hola Oscar");
+                break;
+            case "Pepe":
+                System.out.println("Hola pepe");
+                break;
+
+            default:
+                System.out.println("Usuario desconocido");
+                break;
+
         }
     }
 }
