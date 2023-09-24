@@ -21,6 +21,6 @@ public class EjemploVariableeEntorno {
 
         String path2 =varEnv.get("Path");
         System.out.println("path2 = " + path2);
-        
+
     }
 }
